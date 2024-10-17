@@ -19,6 +19,7 @@ public class AverageofHalfNumbers {
 		}
 		System.out.println("The avrage of half of the number is "+avg/(ar.length/2));
 		
+		
 	}
 
 }
